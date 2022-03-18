@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghostgd10
+- 👋 Hi, I’m @half_blood_ghost
 - 👀 I’m interested in Machine Learning and Electric Vehicle
 - 🌱 I’m currently learning Electrical Engineering
 - 💞️ I’m looking to collaborate on EV projects
